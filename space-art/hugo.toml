@@ -1,0 +1,46 @@
+baseURL = 'https://space.jackrschumacher.com/'
+locale = 'en-us'
+title = 'Space Art'
+
+
+[params]
+  defaultTheme = "auto"
+  description = "Space Art"
+  title = "Space Art"
+  [params.author]
+    email = "jackrschumacher@gmail.com"
+    name = "Jack Schumacher"
+  [params.socialIcons]
+    # facebook = "https://www.facebook.com/"
+    # instagram = "https://www.instagram.com/"
+    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    # youtube = "https://www.youtube.com/"
+    email = "mailto:jackrschumacher@gmail.com"
+    #website = "https://example.com"
+    #mastodon = "https://example.com"
+    #pixelfed = "https://example.com"
+    #mixcloud = "https://example.com"
+    #flickr = "https://www.flickr.com"
+    #500px = "https://500px"
+    #whatsapp = "1234567890"
+  [params.gallery]
+    #boxSpacing = 10
+    #targetRowHeight = 288
+    #targetRowHeightTolerance = 0.25
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
