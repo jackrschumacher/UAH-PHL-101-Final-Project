@@ -3,8 +3,12 @@ title: The Moon
 date: 2026-04-07
 menus: main
 sort_order: desc
-description: "The closest planetary body to earth"
-
+description: "The closest planetary body to earth, and the only other planetary body that humans have stepped foot on."
+resources:
+  - src: art002e009287~large.jpg
+    params:
+      cover: true
+      hidden: false
 
 ---
 
