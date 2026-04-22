@@ -11,7 +11,7 @@ In the grand scheme of things, humans have barely ventured out beyond our home p
 
 In terms of human exploration- putting boots on another world- we have barely begun our exploration- the only planet beyond our own that we have journeyed to being the Moon- which is approximately 250,000 miles away from the Earth- a journey of about three days using humanities largest and most sophisticated rockets. Although this journey seems long and somewhat arduous in the context of our explorations so far, but in the grand scheme of the entire universe, is simply a drop in the bucket. 
 
-It is also important to assess what we mean when we describe art and artwork in the context of space and society. What in particular makes a photograph or other form of media art- and does the context that the media is created in affect its status? 
+It is also important to assess what we mean when we describe art and artwork in the context of space and society. As we have explored space, the most common way in which we have documented what we have explored is through images or other types of visualizations. Almost all of our missions contain some sort of camera or imager that we can use to either directly capture an image or collect data that we can use to create a visualization. Many of the images captured of planetary objects are not actually taken from a camera but are rather derived from instrumentation aboard the spacecraft and are then colorized and adapted in order to appear realistic to the general public. This therefore raises the question about whether these images and visualizations are truly 'real' and therefore could be considered a form of 
 
 ### Site Setup and Attribution
 
