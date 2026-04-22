@@ -9,9 +9,9 @@ Humans have always looked up at the stars and wondered have wondered where we as
 
 In the grand scheme of things, humans have barely ventured out beyond our home planet, our oasis in the vast universe that surrounds us. Probes that were launched over 50 years ago on the fastest trajectory possible at the time have just recently reached interstellar space and escaped our sun's influence (the heliosphere). As these probes have travelled further from the Earth over the years, they have aged and instruments have shut down as power levels provided by the probes Radioisotope thermoelectric generators have diminished as they have decayed. On the Voyager probes, the cameras on both probes were turned off in 1990 to conserve power, after capturing the famous "Pale Blue Dot" image- depicting Earth at the furthest distance that we have ever seen it. This image will likely be the furthest image of Earth that we will see for a long time, as after the cameras on the Voyagers were turned off, they have been exposed to the cold and cruel vacuum of space and would likely not function again.
 
-In terms of human exploration- putting boots on another world- we have barely begun our exploration. 
+In terms of human exploration- putting boots on another world- we have barely begun our exploration- the only planet beyond our own that we have journeyed to being the Moon- which is approximately 250,000 miles away from the Earth- a journey of about three days using humanities largest and most sophisticated rockets. Although this journey seems long and somewhat arduous in the context of our explorations so far, but in the grand scheme of the entire universe, is simply a drop in the bucket. 
 
-
+It is also important to asses what we mean when we describe art and artwork in the context of space and society.
 
 ### Site Setup and Attribution
 
