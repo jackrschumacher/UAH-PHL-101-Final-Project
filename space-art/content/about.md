@@ -27,28 +27,22 @@ This site contains images sourced from the [NASA Image Gallery](https://www.nasa
 
 ### Works Cited:
 
-*Artemis II Journey to the Moon - NASA*. https://www.nasa.gov/gallery/journey-to-the-moon/. Accessed 17 Apr. 2026.
+Artemis II Journey to the Moon - NASA. https://www.nasa.gov/gallery/journey-to-the-moon/. Accessed 17 Apr. 2026.
 
+Artemis II Lunar Flyby - NASA. https://www.nasa.gov/gallery/lunar-flyby/. Accessed 17 Apr. 2026.
 
+Nanna/Suen/Sin (God). Text. CHECK with Nicole***, https://oracc.museum.upenn.edu/amgg/listofdeities/nannasuen/. Accessed 14 Apr. 2026.
 
-*Artemis II Lunar Flyby - NASA*. https://www.nasa.gov/gallery/lunar-flyby/. Accessed 17 Apr. 2026.
+“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
 
+“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
 
+“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
 
-*Nanna/Suen/Sin (God)*. Text. CHECK with Nicole***, https://oracc.museum.upenn.edu/amgg/listofdeities/nannasuen/. Accessed 14 Apr. 2026.
+“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/PIA00459. Accessed 22 Apr. 2026.
 
+“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/PIA19873. Accessed 22 Apr. 2026.
 
+“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/PIA19873. Accessed 22 Apr. 2026.
 
-“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
-
-
-
-“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
-
-
-
-“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
-
-
-
-*Space Station 25th Anniversary Science Images - NASA*. https://www.nasa.gov/gallery/space-station-25th-anniversary-science-images/. Accessed 21 Apr. 2026, Andrew J. Feustel.
+Space Station 25th Anniversary Science Images - NASA. https://www.nasa.gov/gallery/space-station-25th-anniversary-science-images/. Accessed 21 Apr. 2026, Andrew J. Feustel.

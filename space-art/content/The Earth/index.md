@@ -3,6 +3,7 @@ title: Earth
 date: 2026-04-07
 menus: main
 sort_order: desc
+weight: 1
 description: 
 "Our home planet- A lifeboat in the vast ocean of Space"
 resources:
