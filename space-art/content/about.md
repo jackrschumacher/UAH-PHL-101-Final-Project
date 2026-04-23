@@ -5,13 +5,18 @@ date: 2026-04-20
 ---
 ### About this site
 
-Humans have always looked up at the stars and wondered have wondered where we as a species fit in in the universe as a whole. As Humans venture out and explore the vast realm of space, we have gained a variety of new perspectives- about our planet, about our solar system, and about the universe as a whole.
+Humans have always looked up at the stars and wondered where we as a species fit in in the universe as a whole. As Humans venture out and explore the vast realm of space, we have gained a variety of new perspectives- about our planet, about our solar system, and about the universe as a whole.
 
 In the grand scheme of things, humans have barely ventured out beyond our home planet, our oasis in the vast universe that surrounds us. Probes that were launched over 50 years ago on the fastest trajectory possible at the time have just recently reached interstellar space and escaped our sun's influence (the heliosphere). As these probes have traveled further from the Earth over the years, they have aged and instruments have shut down as power levels provided by the probes Radioisotope thermoelectric generators have diminished as they have decayed. On the Voyager probes, the cameras on both probes were turned off in 1990 to conserve power, after capturing the famous "Pale Blue Dot" image- depicting Earth at the furthest distance that we have ever seen it. This image will likely be the furthest image of Earth that we will see for a long time, as after the cameras on the Voyagers were turned off, they have been exposed to the cold and cruel vacuum of space and would likely not function again.
 
-In terms of human exploration- putting boots on another world- we have barely begun our exploration- the only planet beyond our own that we have journeyed to being the Moon- which is approximately 250,000 miles away from the Earth- a journey of about three days using humanities largest and most sophisticated rockets. Although this journey seems long and somewhat arduous in the context of our explorations so far, but in the grand scheme of the entire universe, is simply a drop in the bucket. 
+In terms of human exploration- putting boots on another world- we have barely begun our exploration- the only planet beyond our own that we have journeyed to is the Moon- which is approximately 250,000 miles away from the Earth- a journey of about three days using humanity's largest and most sophisticated rockets. Although this journey seems long and somewhat arduous in the context of our explorations so far, in the grand scheme of the entire universe, it is simply a drop in the bucket. 
 
-It is also important to assess what we mean when we describe art and artwork in the context of space and society. As we have explored space, the most common way in which we have documented what we have explored is through images or other types of visualizations. Almost all of our missions contain some sort of camera or imager that we can use to either directly capture an image or collect data that we can use to create a visualization. Many of the images captured of planetary objects are not actually taken from a camera but are rather derived from instrumentation aboard the spacecraft and are then colorized and adapted in order to appear realistic to the general public. This therefore raises the question about whether these images and visualizations are truly 'real' and therefore could be considered a form of 
+It is also important to assess what we mean when we describe art and artwork in the context of space and society. As we have explored space, the most common way in which we have documented what we have explored is through images or other types of visualizations. Almost all of our missions - both human and unmanned - contain some sort of camera or imager that we can use to either directly capture an image or collect data that we can use to create a visualization. Many of the images captured of planetary objects are not actually taken from a camera but are rather derived from instrumentation aboard the spacecraft and are then colorized and adapted in order to appear realistic and visually pleasing to both the general public and the scientists studying it. 
+
+The creation of 'derived' or 'modified' images or visualizations from the missions that we as humans have launched into space raises questions about what could be considered true art and if these 'modified' or 'derived' visualizations meet that definition. Just considering digital art as a whole there are essentially two schools of thought on altered art - one that believes that digital art should only consist of images that are not altered or derived from other data - only photos and physically developed media(via hand drawing on computer generation) being considered as true art. 
+
+In the context of space exploration, oftentimes the only way we can visualize planetary objects or features is through derived or developed representation - creating a digital image from data that is not necessarily an image (topographical data,etc). Even though the imagery may not have been captured by simple digital means, the visualizations that we have created are crucial to understanding of the universe that surrounds us. For example, students when learning about the universe probably aren't inclined to read about what a planetary body looks like, but rather look at images to learn what a planetary body looks like to visualize them.
+
 
 ### Site Setup and Attribution
 
@@ -27,22 +32,60 @@ This site contains images sourced from the [NASA Image Gallery](https://www.nasa
 
 ### Works Cited:
 
-Artemis II Journey to the Moon - NASA. https://www.nasa.gov/gallery/journey-to-the-moon/. Accessed 17 Apr. 2026.
+*Artemis II Journey to the Moon - NASA*. https://www.nasa.gov/gallery/journey-to-the-moon/. Accessed 17 Apr. 2026.
 
-Artemis II Lunar Flyby - NASA. https://www.nasa.gov/gallery/lunar-flyby/. Accessed 17 Apr. 2026.
 
-Nanna/Suen/Sin (God). Text. CHECK with Nicole***, https://oracc.museum.upenn.edu/amgg/listofdeities/nannasuen/. Accessed 14 Apr. 2026.
 
-“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
+*Artemis II Lunar Flyby - NASA*. https://www.nasa.gov/gallery/lunar-flyby/. Accessed 17 Apr. 2026.
 
-“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
 
-“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
 
-“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/PIA00459. Accessed 22 Apr. 2026.
+*Nanna/Suen/Sin (God)*. Text. CHECK with Nicole***, https://oracc.museum.upenn.edu/amgg/listofdeities/nannasuen/. Accessed 14 Apr. 2026.
 
-“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/PIA19873. Accessed 22 Apr. 2026.
 
-“NASA Image and Video Library.” NASA Image and Video Library, https://images.nasa.gov/details/PIA19873. Accessed 22 Apr. 2026.
 
-Space Station 25th Anniversary Science Images - NASA. https://www.nasa.gov/gallery/space-station-25th-anniversary-science-images/. Accessed 21 Apr. 2026, Andrew J. Feustel.
+NASA. *English: Icicles Formed on the Launch Pad and Service Tower in the Evening and Early Morning Hours on January 28, 1986. When It Was Determined That Air Temperatures Combined with Wind Speeds Were Going to Cause Freezing Conditions, a Decision Was Made to Leave All Water Supply Lines on Slow “Trickle” to Prevent Line Burst. This Action Resulted in a Surreal Scene for the Florida Launch Facility.* 28 Jan. 1986, Great Images in NASA Description. *Wikimedia Commons*, https://commons.wikimedia.org/wiki/File:Icicles_on_the_Launch_Tower_-_GPN-2000-001348.jpg.
+
+
+
+———. *English: Kennedy Space Center, Florida - Space Shuttle Challenger Launches from Launchpad 39B at the Start of STS-51-L.* 28 Jan. 1986, Kennedy Space Center Photo Archive. *Wikimedia Commons*, https://commons.wikimedia.org/wiki/File:STS-51-L.jpg.
+
+
+
+“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
+
+
+
+“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
+
+
+
+“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/as11-40-5874. Accessed 21 Apr. 2026.
+
+
+
+“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/KSC-20260330-PH-SPX01_0002. Accessed 22 Apr. 2026.
+
+
+
+“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/PIA00459. Accessed 22 Apr. 2026.
+
+
+
+“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/PIA19873. Accessed 22 Apr. 2026.
+
+
+
+“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/PIA19873. Accessed 22 Apr. 2026.
+
+
+
+“NASA Image and Video Library.” *NASA Image and Video Library*, https://images.nasa.gov/details/S67-15717. Accessed 22 Apr. 2026.
+
+
+
+“NASA Image and Video Library.” *NASA Image and Video Library*, [https://images.nasa.gov/search?q=Apollo%2013&page=1&media=image,video,audio&yearStart=1920&yearEnd=2026](https://images.nasa.gov/search?q=Apollo 13&page=1&media=image,video,audio&yearStart=1920&yearEnd=2026). Accessed 22 Apr. 2026.
+
+
+
+*Space Station 25th Anniversary Science Images - NASA*. https://www.nasa.gov/gallery/space-station-25th-anniversary-science-images/. Accessed 21 Apr. 2026, Andrew J. Feustel.

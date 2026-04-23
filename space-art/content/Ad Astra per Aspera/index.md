@@ -6,7 +6,7 @@ sort_order: desc
 weight: 5
 description: "A rough road leads to the stars"
 resources:
-  - src: PIA24937~orig.jpg
+  - src: S86-26436~orig.jpg
     params:
       cover: true
       hidden: false
