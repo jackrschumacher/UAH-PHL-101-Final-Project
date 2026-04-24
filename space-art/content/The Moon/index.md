@@ -1,5 +1,5 @@
 ---
-title: The Moon
+title: Moon
 date: 2026-04-07
 menus: main
 weight: 1
