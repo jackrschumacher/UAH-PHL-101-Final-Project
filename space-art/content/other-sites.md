@@ -27,4 +27,3 @@ These galleries mostly consist of images rather that physical media.
 - [The Voyager *Golden Record*](https://en.wikipedia.org/wiki/Voyager_Golden_Record)
 - [*Orbital Reflector*](https://skyandtelescope.org/stargazing-and-observing/spacex-orbiting-sculpture/)
 - [*Cosmic Dancer* (MIR Space Station)](http://www.outer-space-art-gallery.com/cosmic-dancer.html)
-- 
